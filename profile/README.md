@@ -1,15 +1,11 @@
 
 # ReadShade
 
-## About
+## About Us
 
 ### Who?
 
-ReadShade is brought to you by a dedicated team of individuals.
-
-- [BlueSkyDefender](https://github.com/BlueSkyDefender)
-- [papadanku](https://github.com/papadanku)
-- [PHARTGAMES](https://github.com/PHARTGAMES)
+ReadShade is brought to you by a dedicated team of individuals: [BlueSkyDefender](https://github.com/BlueSkyDefender), [papadanku](https://github.com/papadanku), [PHARTGAMES](https://github.com/PHARTGAMES).
 
 ### What?
 
